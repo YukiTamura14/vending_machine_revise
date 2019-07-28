@@ -1,5 +1,7 @@
 ## VendingMachine
 
+This vending machine is sample code provided for Rwanda students.
+In Rwanda, speaking of a vending machine is milk. Others do not circulate much.
 
 ### How to use
 
